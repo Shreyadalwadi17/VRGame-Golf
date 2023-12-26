@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MiniGame.unity
+    guid: 7059db40c8e05cb40b8c5c91780e755c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 79ebff98bea494587b169d5900957ba5,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9497f1642507b435683415c292817b92,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 76fc0dba4c3de427592d9c2a755e7015,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7a02db1e9a7d343e19c0dfad68b03749,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 12d2a91c599404c6b947f5809bf1fbf2,
+      type: 2}
